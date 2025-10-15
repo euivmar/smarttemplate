@@ -24,4 +24,5 @@ Using the SmartTemplate GUI, change the insertion value from 5.0 to 100.0 mm and
 
 Now use the SmartTemplate GUI to fully retract the needle by clicking the "RETRACT" button and observe the updates in the 3D Slicer viewers
 
-[â¬…ï¸ Previous: Register SmartTemplate](3-register-smarttemplate) | [Next: Make a targeted insertion âž¡ï¸](5-targeted-insertion) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Register SmartTemplate](3-register-smarttemplate) | [Next: Make a targeted insertion âž¡️](5-targeted-insertion) | [Back to Table of Contents â†©️](index)
+

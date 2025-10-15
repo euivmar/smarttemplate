@@ -45,5 +45,6 @@ world
  
  
 
-[â¬…ï¸ Back to Overview](overview) | [Next: SmartTemplate Description Package âž¡ï¸](description) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Back to Overview](overview) | [Next: SmartTemplate Description Package âž¡️](description) | [Back to Table of Contents â†©️](index)
+
 

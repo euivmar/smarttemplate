@@ -30,4 +30,5 @@ Using the SmartTemplate GUI, move the robot using the arrow buttons and observe 
 
 ![SmartTemplate GUI](images/image10.png)
 
-[â¬…ï¸ Previous: Load MR images](1-load-images) | [Next: Register SmartTemplate to the scanner âž¡ï¸](3-register-smarttemplate) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Load MR images](1-load-images) | [Next: Register SmartTemplate to the scanner âž¡️](3-register-smarttemplate) | [Back to Table of Contents â†©️](index)
+

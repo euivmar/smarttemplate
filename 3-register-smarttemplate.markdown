@@ -83,5 +83,6 @@ The SmartTemplate pose will automatically update to the registered pose with res
 
 ![Robot registration](images/image12.jpg) ![Topic message](images/image13.jpg)
 
-[â¬…ï¸ Previous: Load SmartTemplate robot](2-load-robot) | [Next: Make a straight needle insertion âž¡ï¸](4-straight-needle-insertion) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Load SmartTemplate robot](2-load-robot) | [Next: Make a straight needle insertion âž¡️](4-straight-needle-insertion) | [Back to Table of Contents â†©️](index)
+
 

@@ -23,4 +23,5 @@ Observe the resultant Linear Transform node that was created to represent the tr
 
 ![Transform node](images/image4.jpg) ![Transform coordinates](images/image5.jpg)
 
-[â¬…ï¸ Previous: Preparation](0-preparation) | [Next: Load SmartTemplate robot in 3DSlicer âž¡ï¸](2-load-robot) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Preparation](0-preparation) | [Next: Load SmartTemplate robot in 3DSlicer âž¡️](2-load-robot) | [Back to Table of Contents â†©️](index)
+

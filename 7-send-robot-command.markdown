@@ -28,5 +28,6 @@ pubCommand.Publish('HOME')
 
 ![Home command](images/image25.jpg)
 
-[â¬…ï¸ Previous: Read needle position](6-read-needle-position) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Read needle position](6-read-needle-position) | [Back to Table of Contents â†©️](index)
+
 

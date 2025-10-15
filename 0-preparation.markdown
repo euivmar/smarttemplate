@@ -27,5 +27,6 @@ source path_to_ros2_ws/install/setup.bash
 ros2 launch smart_template_demo robot.launch.py
 ```
 
-[â¬…ï¸ Previous: Virtual SmartTemplate ROS2 Node](ros2_node) | [Next Step: Load MR images and register ZFrame fiducials âž¡ï¸](1-load-images) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Virtual SmartTemplate ROS2 Node](ros2_node) | [Next Step: Load MR images and register ZFrame fiducials âž¡️](1-load-images) | [Back to Table of Contents â†©️](index)
+
 

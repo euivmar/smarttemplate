@@ -74,5 +74,6 @@ If you're new to these concepts, we recommend reviewing the following resources 
 - [3D Slicer Documentation](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html)
 - [SlicerROS2 Documentation](https://slicer-ros2.readthedocs.io/)
 
-[â¬…ï¸ Back to Table of Contents](index.html) | [Next: Overview âž¡ï¸](overview.html) | [Jump to Setup â†—ï¸](setup.html)
+[â¬…️ Back to Table of Contents](index.html) | [Next: Overview âž¡️](overview.html) | [Jump to Setup â†—️](setup.html)
+
 

@@ -75,5 +75,6 @@ Observe the final needle placement in all planes to confirm the correct needle p
 
 ![Final needle placement](images/image22.png)
 
-[â¬…ï¸ Previous: Straight needle insertion](4-straight-needle-insertion) | [Next: Read needle position âž¡ï¸](6-read-needle-position) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Straight needle insertion](4-straight-needle-insertion) | [Next: Read needle position âž¡️](6-read-needle-position) | [Back to Table of Contents â†©️](index)
+
 

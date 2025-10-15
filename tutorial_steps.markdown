@@ -183,5 +183,6 @@ pubCommand.Publish('HOME')
 
 ![Home command](images/image25.jpg)
 
-[â¬…ï¸ Back to SmartTemplate ROS2 Nodes](ros2_node.html) | [Back to Table of Contents â†©ï¸](index.html)
+[â¬…️ Back to SmartTemplate ROS2 Nodes](ros2_node.html) | [Back to Table of Contents â†©️](index.html)
+
 

@@ -18,5 +18,6 @@ You can also visualize the last messages on the SlicerROS2 module. Click the sub
 
 ![Subscriber message](images/image23.jpg)
 
-[â¬…ï¸ Previous: Targeted insertion](5-targeted-insertion) | [Next: Send a robot command âž¡ï¸](7-send-robot-command) | [Back to Table of Contents â†©ï¸](index)
+[â¬…️ Previous: Targeted insertion](5-targeted-insertion) | [Next: Send a robot command âž¡️](7-send-robot-command) | [Back to Table of Contents â†©️](index)
+
 
