@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy
-permalink: /tutorials/smarttemplate/setup.html
+permalink: /smarttemplate/setup.html
 ---
 
 # SlicerROS2 Setup - Ubuntu 24.04 (ROS2 Jazzy)
@@ -66,4 +66,5 @@ _Other required Slicer Modules for this tutorial:_
 - SlicerDevelopmentToolbox: [https://github.com/QIICR/SlicerDevelopmentToolbox.git](https://github.com/QIICR/SlicerDevelopmentToolbox.git)
 - ZFrameRegistration (modified to include different ZFrame model selection): [https://github.com/maribernardes/ZFrameRegistration-3DSlicer.git](https://github.com/maribernardes/ZFrameRegistration-3DSlicer.git)
 
-[⬅️ Back to Prerequisites](prerequisites) | [Jump to Tutorial Steps ➡️](0-preparation) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Back to Prerequisites](prerequisites) | [Jump to Tutorial Steps âž¡ï¸](0-preparation) | [Back to Table of Contents â†©ï¸](index)
+

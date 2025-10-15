@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy
-permalink: /tutorials/smarttemplate/overview.html
+permalink: /smarttemplate/overview.html
 ---
 
 
@@ -43,4 +43,5 @@ In this tutorial, you will:
 - **Select a target** in the prostate using the 3D Slicer medical imaging software
 - From within 3D Slicer, **command the robot's motion** to align and insert the needle along a straight-line trajectory to the target
 
-[⬅️ Back to Prerequisites](prerequisites) | [Next: SmartTemplate Robot ➡️](robot) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Back to Prerequisites](prerequisites) | [Next: SmartTemplate Robot âž¡ï¸](robot) | [Back to Table of Contents â†©ï¸](index)
+

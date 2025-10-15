@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: defaultlayout: 
 title: MRI-Guided Robot-Assisted Prostate Biopsy with SmartTemplate
 ---
 
@@ -46,5 +46,6 @@ This tutorial demonstrates how to integrate a virtual version of the **SmartTemp
    - [Step 5: Make a targeted insertion using SlicerROS2 publishers]({{ site.baseurl }}/5-targeted-insertion.html)
    - [Step 6: Read needle position using SlicerROS2 subscriber]({{ site.baseurl }}/6-read-needle-position.html)
    - [Step 7: Send a robot command using SlicerROS2 publishers]({{ site.baseurl }}/7-send-robot-command.html)
+
 
 

@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/5-targeted-insertion.html
+permalink: /smarttemplate/5-targeted-insertion.html
 ---
 
 # Step 5: Make a targeted insertion using SlicerROS2 publishers
@@ -75,4 +75,5 @@ Observe the final needle placement in all planes to confirm the correct needle p
 
 ![Final needle placement](images/image22.png)
 
-[⬅️ Previous: Straight needle insertion](4-straight-needle-insertion) | [Next: Read needle position ➡️](6-read-needle-position) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Straight needle insertion](4-straight-needle-insertion) | [Next: Read needle position âž¡ï¸](6-read-needle-position) | [Back to Table of Contents â†©ï¸](index)
+

@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy
-permalink: /tutorials/smarttemplate/robot.html
+permalink: /smarttemplate/robot.html
 ---
 
 # SmartTemplate Robot
@@ -12,23 +12,23 @@ The SmartTemplate robot is a **3 degrees-of-freedom (3-DOF) prismatic robot** de
 
 ~~~~
 world
-└── base_joint (fixed)
-     └── base_link
-          └── vertical_joint (Z-axis)
-               └── vertical_link
-                    └── horizontal_joint (X-axis)
-                         └── horizontal_link
-                              └── insertion_joint (Y-axis)
-                                   └── needle_link (end-effector)
+â””â”€â”€ base_joint (fixed)
+     â””â”€â”€ base_link
+          â””â”€â”€ vertical_joint (Z-axis)
+               â””â”€â”€ vertical_link
+                    â””â”€â”€ horizontal_joint (X-axis)
+                         â””â”€â”€ horizontal_link
+                              â””â”€â”€ insertion_joint (Y-axis)
+                                   â””â”€â”€ needle_link (end-effector)
 ~~~~
 
 ## Joint Definitions
 
 | **Joint Name** | **Type** | **Axis** | **Parent Link** | **Child Link** | **Range (m)** |
 |:--------------|:---------|:---------|:---------------|:--------------|:-------------|
-| vertical_joint | prismatic | Z (0,0,1) | base_link | vertical_link | ±0.025 |
-| horizontal_joint | prismatic | X (1,0,0) | vertical_link | horizontal_link | ±0.03 |
-| insertion_joint | prismatic | Y (0,1,0) | horizontal_link | needle_link | 0.000 → 0.115 |
+| vertical_joint | prismatic | Z (0,0,1) | base_link | vertical_link | Â±0.025 |
+| horizontal_joint | prismatic | X (1,0,0) | vertical_link | horizontal_link | Â±0.03 |
+| insertion_joint | prismatic | Y (0,1,0) | horizontal_link | needle_link | 0.000 â†’ 0.115 |
 
 - **vertical_joint**: Adjusts height of the needle guide above the perineum (Z-axis / P-A)
 - **horizontal_joint**: Aligns the guide laterally (X-axis / L-R)
@@ -45,4 +45,5 @@ world
  
  
 
-[⬅️ Back to Overview](overview) | [Next: SmartTemplate Description Package ➡️](description) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Back to Overview](overview) | [Next: SmartTemplate Description Package âž¡ï¸](description) | [Back to Table of Contents â†©ï¸](index)
+

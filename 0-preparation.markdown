@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/0-preparation.html
+permalink: /smarttemplate/0-preparation.html
 ---
 
 # Preparation: Launch SmartTemplate and 3D Slicer
@@ -27,4 +27,5 @@ source path_to_ros2_ws/install/setup.bash
 ros2 launch smart_template_demo robot.launch.py
 ```
 
-[⬅️ Previous: Virtual SmartTemplate ROS2 Node](ros2_node) | [Next Step: Load MR images and register ZFrame fiducials ➡️](1-load-images) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Virtual SmartTemplate ROS2 Node](ros2_node) | [Next Step: Load MR images and register ZFrame fiducials âž¡ï¸](1-load-images) | [Back to Table of Contents â†©ï¸](index)
+

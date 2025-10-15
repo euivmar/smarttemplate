@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/1-load-images.html
+permalink: /smarttemplate/1-load-images.html
 ---
 
 # Step 1: Load MR images and register ZFrame fiducials
@@ -15,7 +15,7 @@ To register the fiducial marker model to the MR image:
 - Select the "COR TSE T2 COVER ZFrame" volume
 - Select index of slices 9 to 12
 - Define the ROI in the coronal view (green viewer) that appropriately covers the fiducials
-- Click the ✓ button
+- Click the âœ“ button
 
 ![ZFrame registration](images/image3.jpeg)
 
@@ -23,4 +23,4 @@ Observe the resultant Linear Transform node that was created to represent the tr
 
 ![Transform node](images/image4.jpg) ![Transform coordinates](images/image5.jpg)
 
-[⬅️ Previous: Preparation](0-preparation) | [Next: Load SmartTemplate robot in 3DSlicer ➡️](2-load-robot) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Preparation](0-preparation) | [Next: Load SmartTemplate robot in 3DSlicer âž¡ï¸](2-load-robot) | [Back to Table of Contents â†©ï¸](index)

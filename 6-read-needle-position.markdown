@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/6-read-needle-position.html
+permalink: /smarttemplate/6-read-needle-position.html
 ---
 
 # Step 6: Read needle position using SlicerROS2 subscriber
@@ -18,4 +18,5 @@ You can also visualize the last messages on the SlicerROS2 module. Click the sub
 
 ![Subscriber message](images/image23.jpg)
 
-[⬅️ Previous: Targeted insertion](5-targeted-insertion) | [Next: Send a robot command ➡️](7-send-robot-command) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Targeted insertion](5-targeted-insertion) | [Next: Send a robot command âž¡ï¸](7-send-robot-command) | [Back to Table of Contents â†©ï¸](index)
+

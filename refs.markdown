@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title:  References
-permalink: /refs/
+permalink: /smarttemplate/refs/
 ---
 
 
@@ -24,4 +24,5 @@ permalink: /refs/
 - [SlicerIGT](http://www.slicerigt.org/)
 - [National Center for Image Guided Therapy](https://ncigt.org/)
 - [SSMR/ISMR'21 Workshop](http://www.ismr.gatech.edu)
+
 

@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/4-straight-needle-insertion.html
+permalink: /smarttemplate/4-straight-needle-insertion.html
 ---
 
 # Step 4: Make a straight needle insertion using the robot GUI
@@ -24,4 +24,4 @@ Using the SmartTemplate GUI, change the insertion value from 5.0 to 100.0 mm and
 
 Now use the SmartTemplate GUI to fully retract the needle by clicking the "RETRACT" button and observe the updates in the 3D Slicer viewers
 
-[⬅️ Previous: Register SmartTemplate](3-register-smarttemplate) | [Next: Make a targeted insertion ➡️](5-targeted-insertion) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Register SmartTemplate](3-register-smarttemplate) | [Next: Make a targeted insertion âž¡ï¸](5-targeted-insertion) | [Back to Table of Contents â†©ï¸](index)

@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/7-send-robot-command.html
+permalink: /smarttemplate/7-send-robot-command.html
 ---
 
 # Step 7: Send a robot command using SlicerROS2 publishers
@@ -28,4 +28,5 @@ pubCommand.Publish('HOME')
 
 ![Home command](images/image25.jpg)
 
-[⬅️ Previous: Read needle position](6-read-needle-position) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Read needle position](6-read-needle-position) | [Back to Table of Contents â†©ï¸](index)
+

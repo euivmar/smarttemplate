@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy 
-permalink: /tutorials/smarttemplate/description.html
+permalink: /smarttemplate/description.html
 ---
 
 # ROS Robot Description Package for SmartTemplate
@@ -52,4 +52,5 @@ To register the robot with the MRI image, we need to know two things:
 ![Z-Frame](images/image1.gif)
 
 
-[⬅️ Back to SmartTemplate Robot](robot) | [Next: SmartTemplate ROS2 Nodes ➡️](ros2_node) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Back to SmartTemplate Robot](robot) | [Next: SmartTemplate ROS2 Nodes âž¡ï¸](ros2_node) | [Back to Table of Contents â†©ï¸](index)
+

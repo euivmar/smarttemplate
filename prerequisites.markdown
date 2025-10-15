@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy
-permalink: /tutorials/smarttemplate/prerequisites.html
+permalink: /smarttemplate/prerequisites.html
 ---
 
 # Prerequisites
@@ -74,4 +74,5 @@ If you're new to these concepts, we recommend reviewing the following resources 
 - [3D Slicer Documentation](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html)
 - [SlicerROS2 Documentation](https://slicer-ros2.readthedocs.io/)
 
-[⬅️ Back to Table of Contents](index.html) | [Next: Overview ➡️](overview.html) | [Jump to Setup ↗️](setup.html)
+[â¬…ï¸ Back to Table of Contents](index.html) | [Next: Overview âž¡ï¸](overview.html) | [Jump to Setup â†—ï¸](setup.html)
+

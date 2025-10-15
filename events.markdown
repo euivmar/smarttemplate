@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Events
-permalink: /events/
+permalink: /smarttemplate/events/
 ---
 
 # Upcoming events
@@ -14,5 +14,6 @@ permalink: /events/
 - [ISMR 2023: Tutorial on SlicerROS2](/ismr2023/index)
 - [ISMR 2021: Integration of Slicer and ROS2 using ros2_igtl_bridge](/ismr2021/index)
 - [ISMR 2019: Integration of Slicer and ROS using ros-igtl-bridge](/ismr2019/index)
+
 
 

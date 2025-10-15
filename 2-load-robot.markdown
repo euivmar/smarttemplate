@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: "Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy"
-permalink: /tutorials/smarttemplate/2-load-robot.html
+permalink: /smarttemplate/2-load-robot.html
 ---
 
 # Step 2: Load SmartTemplate robot in 3DSlicer
@@ -30,4 +30,4 @@ Using the SmartTemplate GUI, move the robot using the arrow buttons and observe 
 
 ![SmartTemplate GUI](images/image10.png)
 
-[⬅️ Previous: Load MR images](1-load-images) | [Next: Register SmartTemplate to the scanner ➡️](3-register-smarttemplate) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Previous: Load MR images](1-load-images) | [Next: Register SmartTemplate to the scanner âž¡ï¸](3-register-smarttemplate) | [Back to Table of Contents â†©ï¸](index)

@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorials
-permalink: /tutorials/
+permalink: /smarttemplate/tutorials/
 ---
 
 Online Tutorials
@@ -83,6 +83,7 @@ Past workshops
   
   
   
+
 
 
 

@@ -1,7 +1,7 @@
----
-layout: page
+﻿---
+layout: defaultlayout: 
 title: Tutorial on MRI-Guided Robot-Assisted Prostate Biopsy
-permalink: /tutorials/smarttemplate/ros2_node.html
+permalink: /smarttemplate/ros2_node.html
 ---
 
 # SmartTemplate ROS2 Nodes
@@ -37,4 +37,5 @@ The node is implemented in Python using rclpy and provides the following interfa
 
 In addition, the smart_template_demo package includes the world_pose_listener node, which listens to the /world_pose topic. When a new pose is received, it triggers a TF static broadcast to update the base_link frame with respect to the world frame. This is crucial for maintaining the correct TF tree structure during simulated motion.
 
-[⬅️ Back to SmartTemplate Description Package](description) | [Next: Tutorial Steps ➡️](0-preparation) | [Back to Table of Contents ↩️](index)
+[â¬…ï¸ Back to SmartTemplate Description Package](description) | [Next: Tutorial Steps âž¡ï¸](0-preparation) | [Back to Table of Contents â†©ï¸](index)
+
